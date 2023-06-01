@@ -10,6 +10,7 @@ This challenge is focused on Timeseries data and the Prophet forecasting tool.
 ## Technologies
 
 Python version 3.9.15 was used to complete this challenge and the following additional libraries were utilized:
+
 * pandas
 * numpy
 * hvplot
