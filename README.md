@@ -1,4 +1,4 @@
-# Time-Series-Challenge
+# Time Series Challenge
 
 
 ## Welcome to my Time Series repository
